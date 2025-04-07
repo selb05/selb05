@@ -12,6 +12,7 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-1E7775?style=for-the-badge&logo=Jenkins&logoColor=6296CC)
 ![Postman](https://img.shields.io/badge/-Postman-1E7775?style=for-the-badge&logo=Postman&logoColor=6296CC)
 ![Jira](https://img.shields.io/badge/-Jira-1E7775?style=for-the-badge&logo=Jira&logoColor=6296CC)
+![CI/CD](https://img.shields.io/badge/CI/CD-0078D7?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
 ![QT](https://img.shields.io/badge/-QT-1E7775?style=for-the-badge&logo=QT&logoColor=6296CC)
