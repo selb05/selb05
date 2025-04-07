@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I have successfully completed my studies at School 21 🎓
-- 📫 How to reach me: [@dtaushkanov](https://t.me/oceank1ngg) (telegram) ✉️
+- 📫 How to reach me: [@oceank1ngg](https://t.me/oceank1ngg) (telegram) ✉️
 
 ### Languages and tools
 
