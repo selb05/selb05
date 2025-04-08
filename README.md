@@ -9,7 +9,6 @@
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-1E7775?style=for-the-badge&logo=POSTGRESQL&logoColor=6296CC)
 ![Linux](https://img.shields.io/badge/-Linux-1E7775?style=for-the-badge&logo=Linux&logoColor=6296CC)
 ![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00)
-![Jenkins](https://img.shields.io/badge/-Jenkins-1E7775?style=for-the-badge&logo=Jenkins&logoColor=6296CC)
 ![Postman](https://img.shields.io/badge/-Postman-1E7775?style=for-the-badge&logo=Postman&logoColor=6296CC)
 ![Jira](https://img.shields.io/badge/-Jira-1E7775?style=for-the-badge&logo=Jira&logoColor=6296CC)
 ![CI/CD](https://img.shields.io/badge/CI/CD-0078D7?style=for-the-badge&logo=githubactions&logoColor=white)
